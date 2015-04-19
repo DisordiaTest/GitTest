@@ -1,0 +1,2 @@
+This is a test word for the Git 
+Hello git, hello notepad++
