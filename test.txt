@@ -1,3 +1,4 @@
 This is a test word for the Git 
-Hello git, again hello notepad++
+Hello git, again and again hello notepad++
 well, just add a new line, yeah~~
+This is a new line, for the third version
